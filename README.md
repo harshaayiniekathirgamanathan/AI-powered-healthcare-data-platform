@@ -1,2 +1,52 @@
-# AI-powered-healthcare-data-platform
-A centralized healthcare platform that integrates healthcare datasets, performs ETL, stores cleaned data in PostgreSQL, visualizes insights with Power BI, and uses AI for disease prediction.
+Healthcare Datasets (CSV)
+
+        │
+        ▼
+
+Python ETL Pipeline
+
+Extract
+Clean
+Transform
+Merge
+
+        │
+        ▼
+
+PostgreSQL Database
+
+Patients
+Diabetes
+Heart
+Sleep
+
+        │
+        ▼
+
+SQL Queries
+
+KPIs
+Reports
+Analytics
+
+        │
+        ▼
+
+Power BI Dashboard
+
+Patient Statistics
+Disease Trends
+Risk Analysis
+
+        │
+        ▼
+
+Machine Learning
+
+Diabetes Prediction
+Heart Disease Prediction
+
+        │
+        ▼
+
+AI Insights
